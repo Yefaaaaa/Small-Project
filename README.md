@@ -1,4 +1,7 @@
 # Small-Project
-Python
+
 
 Small website based Python projects
+
+
+Copy Right: Yefa Mai
