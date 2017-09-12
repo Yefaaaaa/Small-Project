@@ -1,4 +1,4 @@
 # Small-Project
 Python
 
-Small website based python project 
+Small website based Python projects
